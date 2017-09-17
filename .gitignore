@@ -1,0 +1,4 @@
+*.npy
+*.pyc
+yahoo
+test_data
